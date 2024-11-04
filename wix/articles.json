@@ -1,1 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "文章標題 1",
+    "content": "這是一段關於文章1的簡短介紹。介紹內容...",
+    "imageUri": "https://example.com/path/to/image1.jpg",
+    "url": "https://example.com/article1",
+    "soundUrl": "https://soundcloud.com/example-track-1"
+  },
+  {
+    "id": 2,
+    "title": "文章標題 2",
+    "content": "這是一段關於文章2的簡短介紹。介紹內容...",
+    "imageUri": "https://example.com/path/to/image2.jpg",
+    "url": "https://example.com/article2",
+    "soundUrl": "https://soundcloud.com/example-track-2"
+  },
+  {
+    "id": 3,
+    "title": "文章標題 3",
+    "content": "這是一段關於文章3的簡短介紹。介紹內容...",
+    "imageUri": "https://example.com/path/to/image3.jpg",
+    "url": "https://example.com/article3",
+    "soundUrl": "https://soundcloud.com/example-track-3"
+  },
+  {
+    "id": 4,
+    "title": "文章標題 4",
+    "content": "這是一段關於文章4的簡短介紹。介紹內容...",
+    "imageUri": "https://example.com/path/to/image4.jpg",
+    "url": "https://example.com/article4",
+    "soundUrl": "https://soundcloud.com/example-track-4"
+  }
+]
 
